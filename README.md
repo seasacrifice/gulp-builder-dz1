@@ -14,8 +14,9 @@ Getting started:
 Kozhushko Mikhail Vasilevich 
 
 added two tasks 
-1. "sprite" - sprites generation 
-		sprite:svg - generate svg sprites, sprite:png - generate png sprites.
 
-2. "copy" - copying font and picture files in directory "build" (production directory)
-		copy:fonts - copying font files, copy:img - copy picture files. 
+Kozhushko Mikhail Vasilevich 
+added two tasks 
+1. "sprite" - sprites generation sprite:svg - generate svg sprites, sprite:png - generate png sprites.
+2. "copy" - copying font and picture files in directory "build" (production directory) copy:fonts - copying font files, copy:img - copy picture files. 
+
