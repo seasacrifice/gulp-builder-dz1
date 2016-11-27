@@ -10,3 +10,12 @@ Getting started:
 3. npm install gulpjs/gulp-cli -g  // Install the latest Gulp CLI tools globally
 4. npm install
 6. run "gulp" command to start
+
+Kozhushko Mikhail Vasilevich 
+
+added two tasks 
+1. "sprite" - sprites generation 
+		sprite:svg - generate svg sprites, sprite:png - generate png sprites.
+
+2. "copy" - copying font and picture files in directory "build" (production directory)
+		copy:fonts - copying font files, copy:img - copy picture files. 
